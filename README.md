@@ -1,1 +1,18 @@
-# severed
+Severance: Fractured Will plunges players into the dying Cystium Empire, a once-mighty realm now ravaged by corruption and decay. You embody the Severant, a relentless force of will sent to cleanse the empire’s broken sectors through symbolic puzzles. Each puzzle represents a corrupted node or failing system, challenging you to restore order or purge devastation. The core mechanics revolve around manipulating energy flows, flipping gravity fields, aligning barriers, and routing power circuits. These puzzles are metaphors for control, destruction, and the struggle between order and freedom. As you solve puzzles, narration reveals the Severant’s inner thoughts, the empire’s tragic history, and the moral weight of your choices. Crucially, each puzzle offers a choice: fully purge a node to eliminate corruption at the cost of destruction, or partially cleanse to preserve hope but risk lingering decay. These choices directly influence the game’s three distinct endings. The Rage Ending comes from ruthless purging—destroying everything to stop the rot. The Spite Ending emerges from balance, sparing parts of the empire and embracing chaotic freedom. The Relentless Ending results from locking down control, rebuilding order by force. Progression is linear but punctuated by meaningful decisions that echo through the narrative. Visuals are minimalist, using glowing shapes and moody colors to convey atmosphere without heavy art demands. Ambient soundscapes and a haunting soundtrack deepen immersion. The game’s pacing blends quiet puzzle-solving with escalating stakes and tension. Players feel the empire’s decay in every puzzle, sensing the cost of inaction and the burden of control. The gravity-flipping and energy-routing mechanics symbolize the Severant’s power to upend or uphold the empire’s fragile balance. Narrative segments unlock after puzzles, weaving a story of desperation, willpower, and sacrifice. The Severant’s goal is clear but conflicted—save the empire or let it crumble. Through sparse but poignant narration, players connect emotionally to this merciless enforcer. Severance: Fractured Will distills complex themes into elegant, thoughtful gameplay suited for a solo developer’s focused scope. It challenges players to ponder whether control, destruction, or freedom can truly save a dying world. Corruption Cleansing Puzzle:
+You guide cleansing energy through broken circuits to purify corrupted areas. Rushing to completely purge a node can cause destruction, while being cautious may let corruption linger. This puzzle makes players feel the tension between saving and sacrificing.
+
+Gravity Flip Maze:
+You flip gravity in sections to move through unstable environments. Safer paths take longer, while riskier routes might cause parts to collapse. This puzzle captures the feeling of controlling chaos but facing unpredictable consequences.
+
+Barrier Lockdown Puzzle:
+You align energy barriers to block corruption, but sealing areas can trap innocent sectors or rebels. This challenges players to decide between enforcing strict control or allowing some freedom, evoking moral conflict.
+
+Energy Relay Balancing:
+You balance power flow between sectors, knowing that overloading one area can cause failure in another. This puzzle expresses the fragile, interconnected state of the empire’s infrastructure, creating stress and strategic thinking.
+
+Time-Locked Seals:
+You solve puzzles under time pressure to stop corruption from spreading or sealing you out. This conveys urgency and the inevitable decay you’re racing against.
+
+Corrupted Sector Choice:
+After solving a puzzle, you choose to either completely purge (destroy) or stabilize (allow some corruption) the sector. This decision directly impacts the story endings, making players weigh the cost of their actions.
+
